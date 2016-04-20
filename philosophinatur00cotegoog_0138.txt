@@ -1,0 +1,45 @@
+PRINCIPIA MATHEMATICA. 97'
+
+. describe 'olium circulum, &reda quoe tangit hunc circulum, dc [1⁴¹¹ss ’
+transt per concursum crurum CK, ΒΚ, ubi crura prima CP, B P ⁸⁸⁸⁸⁸⁸
+ι concurrunt ad quartum datum punctum, erit regula issa MN cujus
+ope trajeeioria describetur. Unde etiam vicissim trapezium specie
+datum (sr casus quidam impossibiles excipiantur) in data quavis sec·
+‘ tione conica in scribi potest.
+Sunt &alia lemmata quorum ope trajesioriae specie datae, daris
+punsiis dc tangentibus, describi possunt. Ejus generis estquod, si
+ζ reeta linea per pundum quodvis positione datum ducatur, quae da·
+tam coni sessionem in puntiic duobus intersecet, ἃ intersedionum
+ἱ· intervallum bisecetur‚ pundum biseiiionis tanget aliam coni sessio·
+nem ejusdem speciei curn priore, atque axes habentem prioris axi·
+bus parallelos. Sed propero ad magis utilia.
+
+LEMMA XXVI.
+
+’ , Dianguli specie ἔθ’ magnitudine dati tres angulos ad roilas to·
+tidem poſstione datas, quae non fiant omnes parallelae, tn·
+
+gulos adfingulas ponere.
+
+Dantur pofitione tres redae infinitae AB, A C, BC, oc oportet
+triangulum DE F ita locare, ut angulus ejus D lineam AB, angu.
+lus E lineam AC, dr angulus F lineam BC tangat. Super DE,
+D F dr E F describe tria circulorum segmenta D R E, D G F,
+E M F, quae capiant angulos anguiis BA C, AB C, ACB equales
+respective. Describuntur autem haec segmenta ad eas partes linea·
+rum D E, D F, E F, ut literae D R E D eodem ordine curn
+literis B A C B, literae DG F D codem curn literis AB CA,
+dr literae E M F E eodem cum literis A C BA in orbem re·
+deant; deinde compleantur haec segmenta incirculos integros. Se·
+cent oirculi duo priores se mutuo in G, srntque centra eorum P
+&Q Junffis GP, PQ cape Ga ad AB ut est GPad PQ dc
+centro G, intervallo Ga describe circulum, qui secet circulum ‘pri-
+mum {DGE in a. Jungatur tum a D secans circulum secundum
+DF G in b, turn a E secans circulum tertium E M Fin c. Et jam
+licet *figuram ABC d e f constituere simiiem dc aequalem figurae abc
+D E F. Quo sado perficitur problema.
+
+Ο Agatur
+
+ 
+

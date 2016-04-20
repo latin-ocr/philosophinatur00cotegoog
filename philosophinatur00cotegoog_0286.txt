@@ -1,0 +1,57 @@
+sturnorum Maursuuaurua ψ
+
+PROPOSITIO ΙΙ. ΤΗΕΟΚΕΜΑ· ll.
+Si'cnrprri rtfislitnr in ratione velocitatis, ΕΘ) idem stilo oi in-
+fita per medium stmilare moveatur, firmantur atatem tem-
+pora aeqrrnlia .· velocitates in principiis stragularum temporum
+scint in progrcffione geometrica, ὅθ’ spatia stragulis tempori·
+bns descripto sirac rit velocitates.
+
+Caſs 1. Dividatur tempus in particulas aequalem dc st iplis particu·
+larum initiis agat vis refillentiae impulsu unico, quae stt ut velocitass
+erit decrementum velocitatis singulis temporis particulis ut eadem
+velocitas. Sunt ergo velocitates differentiis suis proportionales, dc
+propterea (per lem. r. lib. 11.) continue proportionales. Proinde li
+ex aequali particularum numero componantur tempora quaelibet
+aequalia, erunt velocitates ipsts temporum initiis, ut termini in pro*
+greffione continua, qui per saltum capiuntur, omillo pallim aequali
+terminorum intermediorum numero. Componuntur autem horum
+terminorum rationes ex rationibus inter le iisdem terminorum in·
+
+termediorum aequaliter repetitis, & propterea eae quoque rationes-
+
+sscomposrtae inter se eaedem sunt. Igitur velocitates, his terminis
+
+proportionales, sunt in progressione geometrica. mouentur jam·-
+
+aequales illae temporum particulae, &augeatur earum numerus in
+infinitum, eo ut resistentia impulsus reddatur continuus; dc uelo·
+citates in principiis aequalium temporum, semper continue propor-
+tionales, erunt in boc etiam casu continue proportionales. Q E. D.
+
+[mrsu ,
+Seruaeus
+
+· Cas 2. Et divisim velocitatum differentia, hoc eli, earum partes*
+
+singulis temporibus amissae, sunt ut totae: spatia autem singulis
+temporibus descripta sunt ut velocitatum partes amiffae (per prop. r.
+lib. ιι.) dc propterea etiam ut totae. Q E. D.
+
+Coral. Hinc sr alymptotis reciangulis AC, CH H
+describatur hyperbole BG, fintque A B, DG ad'
+
+asymptoton AC perpendiculares, & exponatur
+tum corporis velocitas tum resistentia medii, B
+
+ipso motus initio, per lineam quamvis datam AC,
+
+elapso autem tempore aliquo per lineam indeli- f offic
+
+uitam DC: exponi potest tempus per aream ABGD, dc spatium
+eo
+
+G
+
+ 
+

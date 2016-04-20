@@ -1,0 +1,53 @@
+PRINCIPIA MATHEMATICA. 35
+
+Cast 1. Sit arcus ille A B, tangens ejus AD, subtensa anguli con· 92¹⁸*
+
+s tasius ad tangentem perpendicularis BD, subtensa arcus AB. Huic
+s subtensae AB& tangenti AD perpendiculares erigantur AG, BG,
+,ἶ concurrentes in G, dein accedant ponda D, B, G, ad punda d, bsg,
+ι srtque J intersesiio linearum B G, AG ultimo sada ubi punsia D, B
+' accedunt usque ad A. Manifestum est quod di· p g „m-
+
+ssantia GJ minor else potest quam assignata quae· CN‘TJ*
+vis. Est autem (ex natura circulorum per pun· *s Χ
+sia AB G, Ab g transeuntium) AB quad aequale Ἰ ”
+AG >t BD, dc Ab quad. aequale Ag x bd,
+ideoque ratio AB quad. ad Ab quad. componitur ‘
+ex rationibus AG ad Ag& BD ad bd. Sed
+quoniam GJ assumi potest minor longitudine
+quavis affignata, fieri potest ut ratio AG ad Ag
+minus differat aratione equalitatis quam pro 1„ ·
+differentia quavis assignata, ideoque ut ratio AB ul
+quad. ad Ab quad. minus disserat a ratione BD ⁶ -
+ad bdquam pro differentia quavis assignata. Est ergo, per lemma t,
+ratio ultima AB quad ad Ab quad. eadem cum ratione ttltima BD
+ad bd. .Ε. D.
+
+Cas associomur jam BD ad AD in angulo quovis dato, dc ea·
+dem semper erit ratio ultima BD ad bd quae prius, ideoque eadem
+acAB quad. adAb quad. QE D.
+
+Cas 3· Et quamvis angulos D nott detur, sed resia BD ad da·
+tum punslum convergat, vel alia quacunque lege constituatur ς tae
+men anguli D, deommuni lege constituti ad equalitatem semper
+vergent dc propius accedent ad invicem quarn pro differentia quavis .
+assignata, ideoque ultimo aequales erunt, per lem. 1, &propterea
+lineae BD, bdsunt iraeadem ratione ad invicem ac prius. Q E. D.
+
+Coros. 1. Unde cum tangentes AD, A d, arcus AB, Ab, &eo-
+
+rum finus BC, bc fiant ultimo chordis A B, Ab aequalem erunt
+ettam illorum quadrata ultimo ut subtensae BD, bd.
+
+Corol. 2. Eorundem quadrata sunt etiarn ultimo ut sunt arcuum
+
+sagitte, quae chordas bisecant dc ad datum punslum convergunt.
+Nam sagitte illae sunt ut subtensae BD, bd.
+
+Corot. 3. Ideoque sagitta est in duplicata ratione temporisquo cors
+pus data velocitate describit arcum.
+
+F a Coros.
+
+ 
+
